@@ -35,4 +35,5 @@ THEN I find a concise, descriptive title
 
 ## Web Page
 
+https://jnhr-ios.github.io/Horiseon-Social-Solution-Services/#search-engine-optimization
 
